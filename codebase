@@ -1,0 +1,84 @@
+
+Remove extra padding to left of mfe-polls
+
+In the badge for events, shorten month to smaller letters
+
+Increase gap between Good afternoon to quick widgets
+
+Reduce C in the weather widget
+
+Change height of right widgets with weather stuff from 126 to 136
+
+Capitalize “day streak” in Bankronyms
+
+Remove box shadow from leaderboard badge in bankronyms
+
+Change gap from “Saved Resources” to item below from 32px to 24px
+
+Remove extra padding in edit button in quick links
+
+Padding in featured news should go from 16 to 24px
+
+Reduce gap between badge, title and stuff below in the featured card from gap 3 to gap 2
+
+Fix right News featured cards cropping the image stuff…one with the height 116px
+
+Change image height of bottom News card list from 144 to 160
+
+Spacing between elements inside the News should be updated to match Figma…same as footer with the reactions stuff
+
+Remove background in “Play” button and add gradient in the ama cards
+
+Also check Figma for gap between card content in the small cards at bottom in mfe-ama
+
+Change border to E5E5E5
+
+Change left and right chevron nav buttons to 36x36
+
+Add gradient to background 
+
+Add right border line thing when the stuff crops out in past sessions in ama
+
+Make submit button in ama to be a small button of 32px
+
+Toggle should be height 32px in height for the white part and check padding in it
+
+In podcasts remove gap between image and stuff on right
+
+The right side of podcasts list of podcasts to be full height as it’s not there 
+
+For dropdown filter, align the right end of the dropdown menu to be in the button group separator
+
+Calendar left and right button should be square…. Date (September 2026) should be 18px
+
+Align filter dropdown in event calendar
+
+Make the filter chip mode in calendar only
+
+No hover state on the edit button in saved resources
+
+Remove underline in hide button in bankronyms and community pulse and also remove extra padding
+
+Edit and hide buttons should have the same height and sizes
+
+Add gradient to “all announcements” modal and change gap from 4 to 7
+
+Change gap for list of announcements card from 4 to 3
+
+Change size of X icon in announcement modal
+
+Make title of announcements to wrap to full width if there’s no button
+
+Button should be right aligned to the end
+
+Make dropdown in submit content to be below box
+
+Add footer to submit content page
+
+Remove .com for URL links
+
+No left and right padding around tab title in submit content
+
+Change cursor to finger when you hover over avatar
+
+Remove padding in report a bug
